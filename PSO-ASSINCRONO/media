@@ -1,0 +1,6 @@
+#!/bin/bash
+#calcula a media do arquivo
+# $media <arquivo>
+
+awk -f media.awk $1
+
