@@ -2,6 +2,8 @@
 
 This is an implementation of a version of the Particle Swarm Optimization algorithm in Graphic Processing Units (GPU) using CUDA. You can read about this implementation in details [here](https://www.intechopen.com/books/search-algorithms-and-applications/running-particle-swarm-optimization-on-graphic-processing-units) and [here](https://www.researchgate.net/publication/220981758_Impact_of_the_random_number_generator_quality_on_particle_swarm_optimization_algorithm_running_on_Graphic_Processor_Units).
 
+The code was developed in 2010 using CUDA API 3.1. Given that a lot of things have changed since then, you might need to modify the code in order to run in newer versions of the API.
+
 To cite:
 * Bastos-Filho, Carmelo JA, et al. "Impact of the random number generator quality on particle swarm optimization algorithm running on graphic processor units." Hybrid Intelligent Systems (HIS), 2010 10th International Conference on. IEEE, 2010.
 ```tex
